@@ -8027,3 +8027,22 @@ spec:
       volumes:
       - emptyDir: {}
         name: temp
+
+---
+emptyDir: {}
+  name: J
+  type: phantom
+  entrance$: deycnthckme123
+  list-1c: tragi/
+  list-2y: hocke/
+  list-3n: lio/
+  list-4i: satosh/
+  list-5n: opinio/
+  list-6t: sligh/
+  list-7y: essa/
+  list-8n: opinio/
+  list-9d: foun/
+  list-10e: spher/
+  list-11n: the/
+  list-12t: idiot
+  list-13h: dutc/
